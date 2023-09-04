@@ -1,0 +1,27 @@
+F:\NewFolder\stock automation\DATA\daily update\japan-all-stock-data\daily
+F:\NewFolder\stock automation\DATA\daily update\japan-all-stock-prices\daily
+F:\NewFolder\stock automation\DATA\daily update\japan-all-stock-prices-2\daily
+F:\NewFolder\stock automation\DATA\daily update\jsf-balance-data\daily
+F:\NewFolder\stock automation\DATA\daily update\jsf-gyakuhibu-data\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-stock-ohlc\daily
+
+#index
+F:\NewFolder\stock automation\DATA\daily update\tosho-index-data\daily
+
+#fund&etf and ohlc
+F:\NewFolder\stock automation\DATA\daily update\tosho-etf-ohlc\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-etf-stock-prices\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-fund-and-others-margin-transactions\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-fund-and-others-margin-transactions-2\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-fund-and-others-ohlc\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-fund-and-others-stock-prices\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-reit-margin-transactions\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-reit-margin-transactions-2\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-reit-ohlc\daily
+F:\NewFolder\stock automation\DATA\daily update\tosho-reit-stock-prices\daily
+
+#trademark
+F:\NewFolder\stock automation\DATA\daily update\trademark-publication\daily
+
+
+

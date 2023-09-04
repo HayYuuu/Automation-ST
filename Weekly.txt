@@ -1,0 +1,4 @@
+F:\NewFolder\stock automation\DATA\daily update\japan-all-stock-margin-transactions\weekly
+F:\NewFolder\stock automation\DATA\daily update\tosho-etf-margin-transactions\weekly
+F:\NewFolder\stock automation\DATA\daily update\tosho-etf-margin-transactions-2\weekly
+F:\NewFolder\stock automation\DATA\daily update\tosho-stock-margin-transactions-2\weekly
